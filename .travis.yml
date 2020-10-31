@@ -3,10 +3,9 @@ cache: packages
 pandoc_version: 2.5
 r_github_packages: r-lib/remotes#340
 
-before_install:
-  - Rscript -e 'install.packages(c("rmarkdown", "devtools", "leaflet", "shiny"))'
-  - make
-  
+install:
+  - R -e 'install.packages(c("rmarkdown", "devtools", "leaflet", "shiny"))'
+
 before_script:
   - chmod +x ./_build.sh
   - chmod +x ./_deploy.sh
