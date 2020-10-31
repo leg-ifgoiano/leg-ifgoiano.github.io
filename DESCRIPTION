@@ -1,6 +1,11 @@
-Package: placeholder
-Type: Book
+Package: legifgoiano
 Title: Empty
 Version: 1.0
+Authors@R: 
+    person(given = "Anderson",
+           family = "Silva",
+           role = c("aut", "cre"),
+           email = "anderson.silvat@ifgoiano.edu.br")
+Description: Leg website.
 Imports: rmarkdown, leaflet, shiny
 Remotes: rstudio/rmarkdown
