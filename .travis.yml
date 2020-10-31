@@ -4,7 +4,7 @@ pandoc_version: 2.5
 r_github_packages: r-lib/remotes#340
 
 install:
-  - R -e 'install.packages(c("rmarkdown", "devtools", "leaflet", "shiny"))'
+  - R -e 'install.packages(c("rmarkdown", "leaflet", "shiny"))'
 
 script:
 Rscript -e "rmarkdown::render_site()"
