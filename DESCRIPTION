@@ -2,5 +2,5 @@ Package: placeholder
 Type: Book
 Title: Empty
 Version: 1.0
-Imports: rmarkdown, leaflet
+Imports: rmarkdown, leaflet, shiny
 Remotes: rstudio/rmarkdown
