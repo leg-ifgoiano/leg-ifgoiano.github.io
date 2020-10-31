@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Book
+Title: Empty
+Version: 1.0
+Imports: rmarkdown, leaflet
+Remotes: rstudio/rmarkdown
