@@ -1,9 +1,8 @@
 name: "LEG - IF Goiano"
-output_dir: "."
+output_dir: "docs"
 exclude: ["README.md", "\\.sh", "cache"]
 output: 
   html_document:
-    lib_dir: site_libs
     toc: false
     theme: spacelab
 navbar:
