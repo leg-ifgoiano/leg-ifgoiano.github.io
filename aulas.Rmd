@@ -1,0 +1,36 @@
+---
+title: "Disciplinas"
+output:
+  html_document:
+    toc: false
+---
+
+## Para cursos de graduação
+
+- **Estatística Básica**
+    - Agronomia
+    - Engenharia Agrícola
+    - Ciência de Alimentos
+    - Sistemas de Informação
+
+- **Estatística Experimental**
+    - Agronomia
+    - Engenharia Agrícola
+    - Ciência de Alimentos
+
+- **Bioestatística**
+    - Licenciatura em Ciências Biológicas
+    - Licenciatura em Química
+    - Medicina Veterinária
+    - Nutrição
+    - Educação Física
+
+## Para cursos de pós-graduação
+- **Amostragem e Métodos Estatísticos Aplicados à Fitossanidade**
+    - Programa de Pós-Graduação em Proteção de Plantas (PPGPP)
+
+- **Estatística Aplicada às Ciências Ambientais**
+    - Programa de Pós-Graduação em Conservação de Recursos Naturais do Cerrado (PPG-CRENAC)
+
+- **Tópicos Avançados em Estatística**
+    - PPG-CRENAC

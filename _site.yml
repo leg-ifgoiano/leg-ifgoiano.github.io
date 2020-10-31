@@ -1,0 +1,23 @@
+name: "LEG - IF Goiano"
+output_dir: "."
+exclude: ["README.md", "\\.sh", "cache"]
+output: 
+  html_document:
+    lib_dir: site_libs
+    toc: false
+    theme: spacelab
+navbar:
+  title: "LEG - IF Goiano"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Produtos"
+      href: produtos.html
+    - text: "Equipe"
+      href: equipe.html
+    - text: "Aulas"
+      href: aulas.html
+    - text: "Cursos"
+      href: cursos.html
+    - text: "Apps"
+      href: Apps.html
