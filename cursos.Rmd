@@ -6,3 +6,4 @@ output:
 ---
 
 - **Computção Estatística em R**
+outros, em breve
