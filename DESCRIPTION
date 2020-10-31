@@ -7,7 +7,5 @@ Author: Anderson Rodrigo da Silva
 Maintainer: Anderson Rodrigo da Silva <anderson.agro@hotmail.com>
 Depends: rmarkdown, leaflet, shiny, devtools
 Imports: utils, stats, graphics, boot, grDevices, datasets
-Suggests: soilphysics,
-    testthat
 Description: Leg website.
 License: GPL (>= 2)
